@@ -1,0 +1,2 @@
+Trying a pull and merge on GitHub and then pulling locally
+Now gonna add some more files to test. Also gonna try to prune instead of delete the branch locally and then on GitHub
