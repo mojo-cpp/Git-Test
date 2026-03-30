@@ -1,1 +1,2 @@
 Now we shall add other files
+And now we shall delete the html file
